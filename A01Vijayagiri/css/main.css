@@ -1,0 +1,47 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.main
+{
+    background-image: url(../N1.jpg);
+}
+body{
+    
+    background-size: cover;
+    background-color: linen;
+    color: brown;
+}
+
+
+    
+
+
+
+.para{
+    font-family: monospace;
+    font-size: 20px;
+}
+#table{
+    color: brown;
+}
+.head{
+    font-family: cursive;
+    background-color: bisque;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
